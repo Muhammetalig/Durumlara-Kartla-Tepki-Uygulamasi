@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "477347763660",
+    "project_id": "reaction-cards-8a90b",
+    "storage_bucket": "reaction-cards-8a90b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477347763660:android:d4ad88f9d4926eb74df969",
+        "android_client_info": {
+          "package_name": "com.example.reaction_cards"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaQ5Zq58Vtuf9aS0EntZxwDlCGgbyeXbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
