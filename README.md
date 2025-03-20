@@ -21,7 +21,7 @@ Kullanılan Teknolojiler
 Kurulum
 1. Bu projeyi bilgisayarınıza klonlayın:
 
-git clone https://github.com/kullaniciadi/tepki-kartlari.git
+https://github.com/Muhammetalig/tepki-kartlari.git
 
 2. Firebase projesi oluşturun ve `google-services.json` dosyasını `android/app/` klasörüne yerleştirin.
 3. Flutter projesinde Firebase'i başlatın:
