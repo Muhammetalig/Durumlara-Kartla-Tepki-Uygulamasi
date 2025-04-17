@@ -3,7 +3,7 @@
 
 Tepki Kartları
 
-Tepki Kartları, arkadaşlarınızla birlikte oynayabileceğiniz eğlenceli bir kart oyunudur. Oyunda her turda verilen bir durum karşısında en uygun tepkiyi gösteren kartı seçmeye çalışırsınız. Oyun Firebase ile gerçek zamanlı olarak oynanabilir.
+Tepki Kartları, arkadaşlarınızla birlikte oynayabileceğiniz eğlenceli bir kart oyunudur. Oyunda her turda verilen bir durum karşısında en uygun tepkiyi gösteren kartı seçmeye çalışırsınız. Oyun Firebase ile gerçek zamanlı olarak oynanabilir. Eğlenceli vakite neden olur.
 
 Özellikler
 - Yeni oyun odası oluşturma ve odaya katılma.
