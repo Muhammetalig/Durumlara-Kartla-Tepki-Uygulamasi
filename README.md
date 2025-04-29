@@ -18,7 +18,7 @@ Kullanılan Teknolojiler
 - Firebase (Firestore)
 - Dart
 
-Kurulum
+Kurulum:
 1. Bu projeyi bilgisayarınıza klonlayın:
 
 https://github.com/Muhammetalig/tepki-kartlari.git
