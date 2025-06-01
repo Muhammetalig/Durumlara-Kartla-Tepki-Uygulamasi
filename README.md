@@ -13,7 +13,7 @@ Tepki Kartları, arkadaşlarınızla birlikte oynayabileceğiniz eğlenceli bir 
 - 6 tur sonunda oyun sona erer.
 - Basit ve şık bir arayüz.
 
-Kullanılan Teknolojiler:
+Kullanılan Teknolojiler
 - Flutter
 - Firebase (Firestore)
 - Dart
