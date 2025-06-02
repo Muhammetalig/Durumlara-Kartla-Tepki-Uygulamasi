@@ -7,7 +7,7 @@ Tepki Kartları, arkadaşlarınızla birlikte oynayabileceğiniz eğlenceli bir 
 
 Özellikler;
 - Yeni oyun odası oluşturma ve odaya katılma.
-- Firebase Firestore kullanarak durumlar ve oynanan kartlar senkronize edilir.
+- Firebase Firestore kullanarak durumlar ve oynanan kartlar senkronize edilir
 - Her oyuncuya 6 kart dağıtılır.
 - Oyun sırasında seçilen kartlar anlık olarak tüm oyunculara gösterilir.
 - 6 tur sonunda oyun sona erer.
